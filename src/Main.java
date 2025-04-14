@@ -12,7 +12,7 @@ public class Main {
         System.out.println(fullName);
 //        System.out.println(fruit[0] + fruit[1] + fruit[2] + fruit[3]);
         System.out.println(fruit.length); //show length property
-        for(String f : fruit){
+        for (String f : fruit) {
             System.out.println(f);
         }
 //        for(int i = 0; i < fruit.length; i++) {  // i = i + 1
